@@ -53,6 +53,18 @@ The objective of this project is to develop a <b>data-driven crop recommendation
   <li><b>Random Forest (Best Performing Model)</b></li>
   <li>Support Vector Machine (SVM)</li>
 </ul>
+<hr>
+
+<h2>📈 Model Performance</h2>
+<ul>
+  <li>Multiple ML models were trained and evaluated</li>
+  <li><b>Random Forest achieved the highest accuracy</b></li>
+</ul>
+<b>Random Forest achieved the highest accuracy</b>
+
+
+
+
 
 <hr>
 
@@ -103,6 +115,8 @@ The trained Random Forest model is deployed using <b>Streamlit</b> with an inter
 </ul>
 
 <hr>
+<p align="center">⭐ If you find this project useful, don’t forget to star the repository!</p>
+
 
 <h2>▶️ How to Run the Project</h2>
 
