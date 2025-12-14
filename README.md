@@ -10,6 +10,15 @@
 <p align="center">
   An end-to-end Machine Learning project that recommends the most suitable crop based on soil nutrients and climatic conditions.
 </p>
+<hr>
+
+<h2>👨‍💻 Author</h2>
+
+<p>
+  <b>Vishesh Singh</b><br>
+  Aspiring Data Scientist | Machine Learning Enthusiast
+</p>
+<hr>
 
 <hr>
 
@@ -53,7 +62,20 @@ The objective of this project is to develop a <b>data-driven crop recommendation
   <li><b>Random Forest (Best Performing Model)</b></li>
   <li>Support Vector Machine (SVM)</li>
 </ul>
-<hr>
+
+
+<h2>📌 Tools & Technologies</h2>
+
+<ul>
+  <li>Python</li>
+  <li>Machine Learning</li>
+  <li>Scikit-learn</li>
+  <li>Pandas, NumPy</li>
+  <li>Matplotlib, Seaborn</li>
+  <li>Streamlit</li>
+</ul>
+
+
 
 <h2>📈 Model Performance</h2>
 <ul>
